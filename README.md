@@ -16,7 +16,7 @@ Je suis Coze Benjamin, un administrateur système et réseau passionné, avec un
 - [Sécurité](https://github.com/Jrb62/Formation-AIS-et-DevOps/tree/main/Sécurité)
 
 ## 📈 Statistiques GitHub
-![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=Jrb62&show_icons=true&theme=radical)
+![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=Jrb62&show_icons=true&theme=chartreuse-dark)
 
 ---
 
