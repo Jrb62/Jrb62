@@ -12,7 +12,7 @@ Je suis Coze Benjamin, un administrateur système et réseau passionné, avec un
 
 ## 🚀 Projets phares
 - [DevOps](https://github.com/Jrb62/Formation-AIS-et-DevOps/tree/main/DevOps)
-- [Réseaux](https://github.com/Formation-AIS-et-DevOps/tree/main/Reseau)
+- [Réseaux](https://github.com/Jrb62/Formation-AIS-et-DevOps/tree/main/Reseau)
 - [Sécurité](https://github.com/Jrb62/Formation-AIS-et-DevOps/tree/main/Sécurité)
 
 ## 📈 Statistiques GitHub
